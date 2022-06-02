@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sevvalsaygat&label=Profile%20views&color=0e75b6&style=flat" alt="sevvalsaygat" /> </p>
 
 - 📫 How to reach me **sevvallsstt@gmail.com**
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ReactJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
