@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋😛, I'm Şevval Saygat</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sevvalsaygat&label=Profile%20views&color=0e75b6&style=flat" alt="sevvalsaygat" /> </p>
-
 - 📫 How to reach me **sevvallsstt@gmail.com**
 - 🌱 I’m currently learning **ReactJS**
 
