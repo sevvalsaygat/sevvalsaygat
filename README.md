@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋😛, I'm Şevval Saygat</h1>
+<h1 align="center">Hi 👋, I'm Şevval Saygat</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 
 
