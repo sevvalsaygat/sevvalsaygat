@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me **sevvallsstt@gmail.com**
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 Lifelong learner
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
