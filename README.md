@@ -1,11 +1,11 @@
-<h1 align="left">Hi 👋, I'm Şevval Saygat</h1>
+<h1 align="left">Hi I'm Şevval <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi",</h1>
 <h3 align="left">A passionate Frontend Developer from Turkey</h3>
 
 
-* 📫 How to reach me **sevvallsstt@gmail.com**
-* 🌱 Lifelong learner
+* 📩 How to reach me **sevvallsstt@gmail.com**
+* 🔅 Lifelong learner
 
-## Connect with me 🔍
+## Connect with me 💭
 <div align="left">
 <a href="https://medium.com/@sevvallsstt" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
