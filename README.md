@@ -21,6 +21,3 @@
 <div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sevvalsaygat&show_icons=true&locale=en&layout=compact" alt="sevvalsaygat" /></p>
 </div>
-
-
-
